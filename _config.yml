@@ -2,3 +2,6 @@ title: "Franco Blog"
 description: "Deep Learning, fine-tuning, and LLMs from a backend engineer's perspective, building real production systems"
 author: Franco
 theme: minima
+
+url: "https://francolautaro2.github.io"
+baseurl: ""
