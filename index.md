@@ -11,5 +11,3 @@ This blog is where I document what I'm learning as I move toward AI/ML engineeri
 📬 [GitHub](https://github.com/francolautaro2) · [LinkedIn](https://www.linkedin.com/in/f-mino/)
 
 ---
-
-## Latest posts
