@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 ---
 
 <img src="{{ '/perfil.jpeg' | relative_url }}" alt="Profile" width="140" height="140" style="border-radius: 50%; object-fit: cover;">
