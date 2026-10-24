@@ -6,7 +6,7 @@ categories: [reverse-engineering, security]
 tags: [uncharted-2, ps3, go, protocols, cryptography, wireshark, networking]
 ---
 
-In 2019 Sony shut down the multiplayer servers for Uncharted 2 on PS3. The game still boots, the menus still load, but the moment you press "Multiplayer" the client reaches out to infrastructure that no longer exists. For a competitive community that had been playing for a decade (I've been part of it for years as **FoXx**), that was the end of the game.
+In 2019 Sony shut down the multiplayer servers for Uncharted 2 on PS3. The game still boots, the menus still load, but the moment you press "Multiplayer" the client reaches out to infrastructure that no longer exists.
 
 So I decided to rebuild the server side from scratch, in Go, using nothing but the original client and the traffic it produces. This post is about *how* you do that: how you turn a black box that talks over the network into a protocol you understand well enough to answer.
 
